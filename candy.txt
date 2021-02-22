@@ -3,3 +3,4 @@
 変更を更新する
 git add 
 git commit
+git rm
